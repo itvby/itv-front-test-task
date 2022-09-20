@@ -1,1 +1,0 @@
-# itv-front-test-task
