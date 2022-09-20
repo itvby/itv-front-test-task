@@ -48,10 +48,11 @@
 
 ## Технические требования
 
-- приложение корректно работает в последней версии Chrome
-- можно использовать css-препроцессоры, bootstrap, material design
-- использовать React / Redux / AntDesign | MaterialUI / Axios или использовать Vue3 / Vuex / Vuetify / Axios 
-- **(необязательно)** использовать TS
+- работа приложения проверяется в браузере Google Chrome последней версии
+- можно использовать bootstrap, material design, css-фреймворки, html и css препроцессоры
+- использовать React (redux/mobX, react-router) или Vue3 (vuex/vue-router)
+- приложение должно быть SPA
+- **(необязательно)** приложение должно быть написано на Typescript
 
 ## Материалы
 
