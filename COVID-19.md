@@ -56,9 +56,7 @@
 ## Материалы
 
 **API**
-- [получить флаг любой страны](https://www.countryflags.io/)
-- [получить флаг и население по названию страны](https://restcountries.eu/rest/v2/all?fields=name;population;flag)
-- [данные по COVID-19](https://disease.sh/v3/covid-19)
+- [данные по COVID-19](https://disease.sh)
 
 **Библиотеки**
 - [ChartJS: диаграммы HTML5](https://www.chartjs.org/)
